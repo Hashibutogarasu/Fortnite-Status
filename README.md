@@ -7,3 +7,5 @@ main.pyファイルがあるディレクトリにcdコマンドやらで移動�
 https://status.epicgames.com/
 
 ここをスクレイピングしてるだけ
+
+exe版は誰でも使えます(Windowsのみ)
